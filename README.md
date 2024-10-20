@@ -76,16 +76,16 @@ BlinkIt-Sales-Dashboard/
 │   └── dashboard_view_2.png
 │
 └── README.md                 # Project README file
-
-
+```
 ---
 
 ## 📸 **Screenshots**
-### Dashboard Overview
-![Dashboard Overview](https://github.com/prabhatkumarsahu7/BlinkIt-Sales-Dashboard/blob/main/screenshots/Cleaned_data_view.png)
 
 ### Outlet Performance
 ![Outlet Performance](https://github.com/prabhatkumarsahu7/BlinkIt-Sales-Dashboard/blob/main/screenshots/Dashboard_view.png)
+
+### Datset
+![Dashboard Overview](https://github.com/prabhatkumarsahu7/BlinkIt-Sales-Dashboard/blob/main/screenshots/Cleaned_data_view.png)
 
 ---
 
