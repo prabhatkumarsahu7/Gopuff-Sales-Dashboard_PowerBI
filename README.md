@@ -72,8 +72,8 @@ BlinkIt-Sales-Dashboard/
 │   └── BlinkIt_Sales_Data.csv
 │
 ├── screenshots/              # Dashboard screenshots
-│   ├── dashboard_view_1.png
-│   └── dashboard_view_2.png
+│   ├── Cleaned_data_view.png
+│   └── Dashboard_view.png
 │
 └── README.md                 # Project README file
 
@@ -81,10 +81,10 @@ BlinkIt-Sales-Dashboard/
 
 ## 📸 **Screenshots**
 ### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard_view_1.png)
+![Dashboard Overview](https://github.com/prabhatkumarsahu7/BlinkIt-Sales-Dashboard/blob/main/screenshots/Cleaned_data_view.png)
 
 ### Outlet Performance
-![Outlet Performance](screenshots/dashboard_view_2.png)
+![Outlet Performance](https://github.com/prabhatkumarsahu7/BlinkIt-Sales-Dashboard/blob/main/screenshots/Dashboard_view.png)
 
 ---
 
