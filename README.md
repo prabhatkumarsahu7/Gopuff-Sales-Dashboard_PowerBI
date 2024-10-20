@@ -9,18 +9,18 @@ This **BlinkIt Sales Dashboard** provides deep insights into product performance
 
 ---
 
-## 📑 **Table of Contents**
-- [Project Overview](#project-overview)
-- [Data Source](#data-source)
-- [Key Insights](#key-insights)
-- [Features of the Dashboard](#features-of-the-dashboard)
-- [Project Files](#project-files)
-- [Screenshots](#screenshots)
-- [Future Enhancements](#future-enhancements)
-- [Contact](#contact)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+### 📑 Table of Contents
+- [Project Overview](#-project-overview)
+- [Data Source](#-data-source)
+- [Key Insights](#-key-insights)
+- [Features of the Dashboard](#-features-of-the-dashboard)
+- [Project Files](#-project-files)
+- [Screenshots](#-screenshots)
+- [Future Enhancements](#-future-enhancements)
+- [Contact](#-contact)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Acknowledgements](#-acknowledgements)
 
 ---
 
@@ -81,10 +81,10 @@ BlinkIt-Sales-Dashboard/
 
 ## 📸 **Screenshots**
 
-### Outlet Performance
+- **Outlet Performance**
 ![Outlet Performance](https://github.com/prabhatkumarsahu7/BlinkIt-Sales-Dashboard/blob/main/screenshots/Dashboard_view.png)
 
-### Datset
+- **Dataset**
 ![Dashboard Overview](https://github.com/prabhatkumarsahu7/BlinkIt-Sales-Dashboard/blob/main/screenshots/Cleaned_data_view.png)
 
 ---
