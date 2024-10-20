@@ -10,17 +10,17 @@ This **BlinkIt Sales Dashboard** provides deep insights into product performance
 ---
 
 ## 📑 **Table of Contents**
-- [Project Overview](#-project-overview)
-- [Data Source](#-data-source)
-- [Key Insights](#-key-insights)
-- [Features of the Dashboard](#-features-of-the-dashboard)
-- [Project Files](#-project-files)
-- [Screenshots](#-screenshots)
-- [Future Enhancements](#-future-enhancements)
-- [Contact](#-contact)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Acknowledgements](#-acknowledgements)
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Key Insights](#key-insights)
+- [Features of the Dashboard](#features-of-the-dashboard)
+- [Project Files](#project-files)
+- [Screenshots](#screenshots)
+- [Future Enhancements](#future-enhancements)
+- [Contact](#contact)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -72,10 +72,11 @@ BlinkIt-Sales-Dashboard/
 │   └── BlinkIt_Sales_Data.csv
 │
 ├── screenshots/              # Dashboard screenshots
-│   ├── Cleaned_data_view.png
-│   └── Dashboard_view.png
+│   ├── dashboard_view_1.png
+│   └── dashboard_view_2.png
 │
 └── README.md                 # Project README file
+
 
 ---
 
