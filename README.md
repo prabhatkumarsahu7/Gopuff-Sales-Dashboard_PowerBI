@@ -72,8 +72,8 @@ BlinkIt-Sales-Dashboard/
 │   └── BlinkIt_Sales_Data.csv
 │
 ├── screenshots/              # Dashboard screenshots
-│   ├── dashboard_view_1.png
-│   └── dashboard_view_2.png
+│   ├── Cleaned_data_view.png
+│   └── Dashboard_view.png
 │
 └── README.md                 # Project README file
 ```
