@@ -85,7 +85,7 @@ Gopuff_Sales_Dashboard/
 ![Outlet Performance](screenshots/Gopuff_Sales_Dashboard.png)
 
 - **Dataset**
-![Dashboard Overview](screenshots/Cleaned Data.png)
+![Dashboard Overview](screenshots/Cleaned_Data.png)
 
 ---
 
