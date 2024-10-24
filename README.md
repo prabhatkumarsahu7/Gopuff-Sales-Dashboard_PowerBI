@@ -1,11 +1,11 @@
-# BlinkIt-Sales-Dashboard
+# Gopuff-Sales-Dashboard
 Power BI dashboard showcasing sales insights for BlinkIt’s product performance and outlet trends.
 
-# **BlinkIt Sales Dashboard 📊**
-![BlinkIt Logo](https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_2/ozrgpc6hulbfxyi1zeqd)
+# **Gopuff Sales Dashboard 📊**
+![Gopuff Logo](https://framerusercontent.com/images/TTyUUdC8yBEi7gohxyu1SumTY7k.jpg)
 
 ## 🚀 **Project Overview**
-This **BlinkIt Sales Dashboard** provides deep insights into product performance, outlet types, and sales distribution across different regions. Built using **Power BI**, it helps stakeholders make data-driven decisions by visualizing key metrics like total sales, average sales, and outlet establishment trends.
+This **Gopuff Sales Dashboard** provides deep insights into product performance, outlet types, and sales distribution across different regions. Built using **Power BI**, it helps stakeholders make data-driven decisions by visualizing key metrics like total sales, average sales, and outlet establishment trends.
 
 ---
 
@@ -63,17 +63,17 @@ This dataset provides a comprehensive view of product sales, outlet attributes, 
 
 ## 📂 **Project Files**
 ```bash
-BlinkIt-Sales-Dashboard/
+Gopuff_Sales_Dashboard/
 │
 ├── dashboard/                # Power BI Dashboard (.pbix)
-│   └── BlinkIt_Sales_Dashboard.pbix
+│   └── Gopuff_Sales_Dashboard.pbix
 │
 ├── data/                     # Data used for the project
-│   └── BlinkIt_Sales_Data.csv
+│   └── Gopuff_Sales_Data.csv
 │
 ├── screenshots/              # Dashboard screenshots
-│   ├── Cleaned_data_view.png
-│   └── Dashboard_view.png
+│   ├── Cleaned Data.png
+│   └── Gopuff_Sales_Dashboard.png
 │
 └── README.md                 # Project README file
 ```
@@ -82,10 +82,10 @@ BlinkIt-Sales-Dashboard/
 ## 📸 **Screenshots**
 
 - **Outlet Performance**
-![Outlet Performance](https://github.com/prabhatkumarsahu7/BlinkIt-Sales-Dashboard/blob/main/screenshots/Dashboard_view.png)
+![Outlet Performance](screenshots/Gopuff_Sales_Dashboard.png)
 
 - **Dataset**
-![Dashboard Overview](https://github.com/prabhatkumarsahu7/BlinkIt-Sales-Dashboard/blob/main/screenshots/Cleaned_data_view.png)
+![Dashboard Overview](screenshots/Cleaned Data.png)
 
 ---
 
