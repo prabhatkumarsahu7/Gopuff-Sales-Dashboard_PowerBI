@@ -1,5 +1,5 @@
 # Gopuff-Sales-Dashboard
-Power BI dashboard showcasing sales insights for BlinkIt’s product performance and outlet trends.
+Power BI dashboard showcasing sales insights for Gopuff’s product performance and outlet trends.
 
 # **Gopuff Sales Dashboard 📊**
 ![Gopuff Logo](https://framerusercontent.com/images/TTyUUdC8yBEi7gohxyu1SumTY7k.jpg)
